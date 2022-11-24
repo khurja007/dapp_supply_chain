@@ -41,19 +41,33 @@ Because blockchain uses smart contact to make digital contacts between the diffe
 
 ## Functionality
 
- - addConsumer
- - addQualityChecker
- - addTextile
- - addProducer
- - fabricAuditItem
- - fabricCuttingItem
- - fabricPrepareItem
- - fabricProcessItem
- - clothSewingItem
- - clothBuyItem
- - clothCertifyItem
- - clothCreateItem
- - clothPackItem
- - clothProduceItem
- - clothSellItem
+- **addTextile:** Here we add Textile company for preparing fabric from Raw material.
+
+- **addProducer:** Here we add Cloth producer for making and ready cloths for consumers.
+
+- **addQualityChecker:** Here we add Quality checker for checking the yarns quality and cloths quality to certified them for production.
+
+- **addConsumer:** Here we add consumers, whom stores sell cloths finally.
+
+- **fabricPrepareItem:** In this process textile company prepare cotton yarns from raw material.
+
+- **fabricYarnsPrepareItem:** In this process fabric prepared through yarns in company.
+
+- **yarnCertifyItem:** Quality checker check fabric quality here, prepared by yarns.
+
+- **fabricProcessItem:** In this process different kinds of fabric made by company after quality check.
+
+- **fabricCuttingItem:** In this process different size of fabric cut for preparing cloths.
+
+- **clothSewingItem:** With the cutted fabric here, cloths prepared after sewing them.
+
+- **clothCertifyItem:** Sewed cloths certified by quality checker here so that they become ready for production.
+
+- **clothProduceItem:** Here differents cloths produced by producer as shirts, pants, T-shirts etc.
+
+- **clothPackItem:** In this process all produced cloths packed for selling to stores.
+
+- **clothBuyItem:** stores buy packed cloths from producer.
+
+- **clothSellItem:** store sell cloths to final consumer.
 

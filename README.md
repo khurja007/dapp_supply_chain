@@ -75,7 +75,7 @@ As a result, these contracts become immutable and trustworthy. The latest progre
 
 We create different contract as **Textile Role**, **Producer Role**, **Quality Checker Role** and **Consumer Role** with the help of Role.sol based on openzeppelin-solidity and also create a **Ownable contract**, for ownership transfer between different entities.
 
-![](docs\createRoles.PNG)
+![](docs/createRoles.PNG)
 
 So here we add different account as addTextile, addProducer, addQualityChecker and addConsumer.
 

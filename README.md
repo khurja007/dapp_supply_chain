@@ -19,7 +19,7 @@ As a result, these contracts become immutable and trustworthy. The latest progre
 
 **## Diagram**
 
-![](docs\diagram.PNG)
+![](docs/diagram.PNG)
 
 **Process Chart of SCM with smart contract**
 

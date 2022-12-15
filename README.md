@@ -61,7 +61,7 @@ As a result, these contracts become immutable and trustworthy. The latest progre
 - **YarnAcquired:**  Then after planning for yarn purchase we acquired yarn for fabric.
 - **YarnAudited:**  In this contract quality audited by QC for purchased yarn.
 - **YarnProcessed:**  After quality audit yarn processed for fabric preparation.
-- **FabricCreated:**  Here fabric created with the help of processed yarn.
+- **FabricCreated:**  Here fabric created with the help of processed yarn by producer.
 - **FabricCutted:**  Here ready fabric cut in to proper sizes for production process.
 - **FabricProduced:**  In this this contract all size fabric produced by the producer for final packaging.
 - **FabricCertified:**  After fabric produced quality checker certified the quality of final product.
